@@ -1,2 +1,2 @@
-# Python-scripts
-Scripts performing different tasks (automation etc.)
+# Automation_scripts
+Automate different tasks using python
